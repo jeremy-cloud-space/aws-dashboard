@@ -1,0 +1,24 @@
+.red-header {
+    background-color: black;
+    color: white;
+}
+
+#main {
+    padding-top: 1rem;
+}
+
+#cost-view {
+    text-align: center;
+}
+
+.box {
+    border: 3px solid black;
+}
+
+#mtd-cost, #forecast-cost, #top-svc-cost {
+    text-align: center;
+}
+
+#usage {
+    padding-top: 1rem;
+}
